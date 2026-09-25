@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/landprice",
   "title": "Landprice",
   "description": "Land Price Japan MCP — official Japanese land prices (地価公示 / 地価調査)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/landprice",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-landprice",
