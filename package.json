@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-landprice",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Land Price Japan MCP — official Japanese land prices (地価公示 / 地価調査) from MLIT's 不動産情報ライブラリ (Real Estate Information Library).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "landprice",
     "gatewaySlug": "landprice",
-    "sourceHash": "v1-60eb8ab9fd1b0c24da0a3247a9a76af6f56a9ec0be27daed09f49c4b63155e70",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-6b98ae57a78832a4000271ec9bdcc333baf03617e48c70a892910d390c3d873c",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
